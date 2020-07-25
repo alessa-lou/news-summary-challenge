@@ -1,5 +1,45 @@
 # News Summary challenge
 
+User stories
+============
+
+As a busy politician
+So I know what the big stories of the day are
+I want to see all of today's headlines in one place
+
+As a busy politician
+So that I can get an in depth understanding of a very important story
+I can click a link to see the original news article
+
+Other things
+============
+
+* Vanilla testing framework/ specRunner file
+* JS interface, model, etc.
+
+- need to stub tests for API
+- need to include API SOMEHOW. Halp. 
+
+To run project:
+===============
+
+Make sure node & npm are present:
+node -v
+npm -v
+
+To install http-server:
+
+npm install http-server --save
+
+To run server:
+
+node node_modules/http-server/bin/http-server
+
+
+
+
+
+
 * Feel free to use Google, your notes, books, etc. but work on your own.
 * If you refer to the solution of another coach or student, please put a link to that in your README.
 * If you have a partial solution, **still check in a partial solution** and send in a pull request.
